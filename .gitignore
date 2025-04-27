@@ -1,0 +1,4 @@
+Sample_file/*_*.xlsx
+output/
+.pytest_cache/
+__pycache__/
